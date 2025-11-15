@@ -1,16 +1,19 @@
-## Hi there 👋
+# Merhaba 👋 Ben Şerafettin Küçüktaş
 
-<!--
-**Phantomer-soft/Phantomer-soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Bilgisayar Mühendisliği 3. Sınıf Öğrencisi**
+💻 **Full Stack Developer | Görüntü İşleme | Mobil Uygulama Geliştirme**
 
-Here are some ideas to get you started:
+## 🛠 Teknolojiler
+- .NET Core
+- HTML/CSS/JavaScript  
+- Java
+- Python
+- OpenCV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub İstatistiklerim
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=serafettinkucuktas&show_icons=true&theme=radical)
+
+## 📫 Bana Ulaşın
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://serafettinkucuktas.com.tr)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profil-blue)](https://linkedin.com/in/serafettinkucuktas](https://tr.linkedin.com/in/%C5%9Ferafettin-k%C3%BC%C3%A7%C3%BCkta%C5%9F-5ba1281a7))
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kucuktas255@gmail.com)
