@@ -11,7 +11,7 @@
 - OpenCV
 
 ## 📊 GitHub İstatistiklerim
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=serafettinkucuktas&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantomer-soft&show_icons=true&theme=radical)
 
 ## 📫 Bana Ulaşın
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://serafettinkucuktas.com.tr)
