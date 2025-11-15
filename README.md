@@ -15,5 +15,5 @@
 
 ## 📫 Bana Ulaşın
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://serafettinkucuktas.com.tr)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profil-blue)](https://linkedin.com/in/serafettinkucuktas](https://tr.linkedin.com/in/%C5%9Ferafettin-k%C3%BC%C3%A7%C3%BCkta%C5%9F-5ba1281a7))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue)](https://tr.linkedin.com/in/%C5%9Ferafettin-k%C3%BC%C3%A7%C3%BCkta%C5%9F-5ba1281a7)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kucuktas255@gmail.com)
