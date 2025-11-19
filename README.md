@@ -4,6 +4,7 @@
 💻 **Full Stack Developer | Görüntü İşleme | Mobil Uygulama Geliştirme**
 
 ## 🛠 Teknolojiler
+- C#
 - .NET Core
 - HTML/CSS/JavaScript  
 - Java
