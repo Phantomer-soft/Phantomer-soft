@@ -6,10 +6,10 @@
 ## 🛠 Teknolojiler
 - C#
 - .NET Core
+- -Entity Framework Core
 - HTML/CSS/JavaScript  
 - Java
-- Python
-- OpenCV
+  
 
 ## 📊 GitHub İstatistiklerim
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantomer-soft&show_icons=true&theme=radical)
