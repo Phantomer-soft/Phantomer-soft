@@ -1,14 +1,14 @@
 # Merhaba 👋 Ben Şerafettin Küçüktaş
 
-🚀 **Bilgisayar Mühendisliği 3. Sınıf Öğrencisi**
-💻 **Full Stack Developer | Görüntü İşleme | Mobil Uygulama Geliştirme**
+🚀 **Bilgisayar Mühendisliği 3. Sınıf**
+💻 **Backend | Görüntü İşleme**
 
 ## 🛠 Teknolojiler
 - C#
 - .NET Core
-- -Entity Framework Core
+- Entity Framework Core
 - HTML/CSS/JavaScript  
-- Java
+  
   
 
 ## 📊 GitHub İstatistiklerim
