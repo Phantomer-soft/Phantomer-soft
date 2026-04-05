@@ -12,7 +12,7 @@
   
 
 ## 📊 GitHub İstatistiklerim
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantomer-soft&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phantomer-soft&show_icons=true&theme=dark)
 
 ## 📫 Bana Ulaşın
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://serafettinkucuktas.com.tr)
